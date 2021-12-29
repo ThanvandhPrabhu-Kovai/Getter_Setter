@@ -1,0 +1,16 @@
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Getter_Setter\obj\Debug\net5.0\Getter_Setter.csproj.AssemblyReference.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Getter_Setter\obj\Debug\net5.0\Getter_Setter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Getter_Setter\obj\Debug\net5.0\Getter_Setter.AssemblyInfoInputs.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Getter_Setter\obj\Debug\net5.0\Getter_Setter.AssemblyInfo.cs
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Getter_Setter\obj\Debug\net5.0\Getter_Setter.csproj.CoreCompileInputs.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Getter_Setter\bin\Debug\net5.0\Getter_Setter.exe
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Getter_Setter\bin\Debug\net5.0\Getter_Setter.deps.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Getter_Setter\bin\Debug\net5.0\Getter_Setter.runtimeconfig.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Getter_Setter\bin\Debug\net5.0\Getter_Setter.runtimeconfig.dev.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Getter_Setter\bin\Debug\net5.0\Getter_Setter.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Getter_Setter\bin\Debug\net5.0\ref\Getter_Setter.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Getter_Setter\bin\Debug\net5.0\Getter_Setter.pdb
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Getter_Setter\obj\Debug\net5.0\Getter_Setter.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Getter_Setter\obj\Debug\net5.0\ref\Getter_Setter.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Getter_Setter\obj\Debug\net5.0\Getter_Setter.pdb
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Getter_Setter\obj\Debug\net5.0\Getter_Setter.genruntimeconfig.cache

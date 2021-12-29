@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mxLp/VDC2+d02gC8v8r7cEUVYbJFR9LX/aIz3HHGkdnIndj0ELZjxpl6eO7ocjy7QJME2ltDoFN6ZdFWMcuMdg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Kovai.Co\\Internship\\DotNet\\Console\\Getter_Setter\\Getter_Setter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thanvandh Prabhu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
